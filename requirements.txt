@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+yfinance
+matplotlib
+seaborn
+statsmodels
+scikit-learn 
+boto3 
+streamlit
+ipykernel
+plotly
+exchange_calendars
